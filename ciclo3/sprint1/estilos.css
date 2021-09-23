@@ -1,6 +1,9 @@
 /*
 styles
 */
+h1{
+	color: #283966;
+}
 
 .container {
     display: grid; 
@@ -79,10 +82,6 @@ styles
 .btnRegister:active {
 	position:relative;
 	top:1px;
-}
-
-h1{
-	color: #283966;
 }
 
 .titleCenter{
